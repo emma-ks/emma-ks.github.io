@@ -2,9 +2,6 @@
 # Display name
 title: Emma Krasovich Southworth
 
-# Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
 first_name: Emma
 last_name: Krasovich Southworth
@@ -56,94 +53,58 @@ interests:
   - Applied econometrics
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD in Environment & Resources
     institution: Stanford University
     date_start: 2022-09-01
-    date_end: 
+    date_end: -
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: MPH in Environmental Health Sciences, Global Health Certificate
+    institution: Columbia University
+    date_start: 2015-09-01
+    date_end: 2017-05-17
+  - area: BA in Behavioral Neuroscience, Biology minor
+    institution: Colgate University
+    date_start: 2011-08-17
+    date_end: 2015-05-18
+    
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     
+# work:
+#  - position: Director of Cloud Infrastructure
+#    company_name: GenCoin
+#   company_url: ''
+#    company_logo: ''
+#    date_start: 2021-01-01
+#    date_end: ''
+#    summary: |2-
+#      Responsibilities include:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: code-bracket
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
+      
 
 languages:
   - name: English
@@ -187,4 +148,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Emma is interested in exploring how we can promote the health of people and the environment in a changing world. Her research aims to measure, value, and predict the impacts of global environmental change on our ecosystems, environmental quality, and human health. She leverages different types and scales of data, including field collected ecological data to remotely sensed data to epidemiological data on human health outcomes, and she relates these datasets together by drawing on methods and tools from various disciplines, such as machine learning, causal inference, and exposure assessment. Her current research focuses on how changes to air quality, land use, and water quality, which are three resources that are critical to the functioning of healthy ecosystems have consequences for both the environment and human health. Emma is co-advised by Erin Mordecai and Marshall Burke, and she is a NSF Graduate Research Fellow, a Stanford EDGE Fellow, and a Stanford Data Science Scholar.
+
+Prior to starting her PhD, Emma worked as a Research Analyst at the Global Policy Lab at UC Berkeley (now at Stanford). During her time at GPL, she was part of a project that aimed to identify land-based sources of nonpoint source water pollution in national-scale river systems in New Zealand and the US Mississippi River Basin. Emma completed her MPH in global and environmental health science and global health at Columbia University and received a BA in behavioral neuroscience from Colgate University.
+
+When she isn’t at her desk, you can find her outside - most likely running or hiking up a mountain. She also co-founded a trivia company and loves to host trivia nights to bring communities together.
