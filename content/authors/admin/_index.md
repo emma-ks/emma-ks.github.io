@@ -11,7 +11,7 @@ last_name: Krasovich Southworth
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌲
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,9 +26,9 @@ role: Environment & Resources PhD Candidate, Stanford University
 organizations:
   - name: Echolab
     url: https://www.stanfordecholab.com
-    - name: Mordecai Lab
+  - name: Mordecai Lab
     url: https://www.mordecailab.com/
-   - name: Global Policy Lab
+  - name: Global Policy Lab
     url: https://www.globalpolicy.science/
   - name: Stanford Data Science Scholars
     url: https://datascience.stanford.edu/about/people/data-science-scholars
@@ -42,7 +42,7 @@ profiles:
     url: 'mailto:emmars@stanford.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/emma-ks1
   - icon: brands/github
     url: https://github.com/emma-ks
 
