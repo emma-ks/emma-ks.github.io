@@ -32,7 +32,7 @@ organizations:
     url: https://www.globalpolicy.science/
   - name: Stanford Data Science Scholars
     url: https://datascience.stanford.edu/about/people/data-science-scholars
-  - Emmett Interdisciplinary Program in Environment and Resources (E-IPER)
+  - name: Emmett Interdisciplinary Program in Environment and Resources (E-IPER)
     url: https://eiper.stanford.edu/people/phd-students
 
 # Social network links
