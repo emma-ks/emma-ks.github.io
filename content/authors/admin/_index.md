@@ -71,7 +71,8 @@ education:
     date_start: 2011-08-17
     date_end: 2015-05-18
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Downstream Impacts from Upstream Actions: The Toll of Food Production on
+Water Quality and Health Outcomes in Sub-Saharan Africa_. Supervised by [Prof Jeff Shaman](https://blogs.cuit.columbia.edu/jls106/).
     button:
       text: 'Read Thesis'
     
@@ -93,7 +94,7 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-#skills:
+# skills:
 #  - name: Technical Skills
 #    items:
 #      - name: Python
@@ -122,14 +123,13 @@ education:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: 
-    url: 
-    date: '
-    awarder: 
-    icon: 
-    summary: 
- 
+#awards:
+#  - title: 
+#    url: 
+#    date: '
+#    awarder: 
+#    icon: 
+#    summary: 
 ---
 
 ## About Me
