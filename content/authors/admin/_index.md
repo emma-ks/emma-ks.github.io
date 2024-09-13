@@ -63,18 +63,13 @@ education:
     date_start: 2015-09-01
     date_end: 2017-05-17
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      hesis on _Downstream Impacts from Upstream Actions: The Toll of Food Production on Water Quality and Health Outcomes in Sub-Saharan Africa_. Supervised by [Prof Jeff Shaman](https://blogs.cuit.columbia.edu/jls106/).
     button:
       text: 'Read Thesis'
   - area: BA in Behavioral Neuroscience, Biology minor
     institution: Colgate University
     date_start: 2011-08-17
     date_end: 2015-05-18
-    summary: |
-      Thesis on _Downstream Impacts from Upstream Actions: The Toll of Food Production on
-Water Quality and Health Outcomes in Sub-Saharan Africa_. Supervised by [Prof Jeff Shaman](https://blogs.cuit.columbia.edu/jls106/).
-    button:
-      text: 'Read Thesis'
     
 
      
