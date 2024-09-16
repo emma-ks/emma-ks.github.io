@@ -7,8 +7,8 @@ first_name: Emma
 last_name: Krasovich Southworth
 
 # Status emoji
-status:
-  icon: 🌲
+# status:
+  # icon: 🌲
 
 # Is this the primary user of the site?
 superuser: true
@@ -39,7 +39,7 @@ profiles:
     url: 'mailto:emmars@stanford.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/emma-ks1
+    url: https://x.com/emma_ks1
   - icon: brands/github
     url: https://github.com/emma-ks
 
@@ -63,15 +63,16 @@ education:
     date_start: 2015-09-01
     date_end: 2017-05-17
     summary: |
-      hesis on _Downstream Impacts from Upstream Actions: The Toll of Food Production on Water Quality and Health Outcomes in Sub-Saharan Africa_. Supervised by [Prof Jeff Shaman](https://blogs.cuit.columbia.edu/jls106/).
+      Thesis on _Downstream Impacts from Upstream Actions: The Toll of Food Production on Water Quality and Health Outcomes in Sub-Saharan Africa_. Supervised by [Prof Jeff Shaman](https://blogs.cuit.columbia.edu/jls106/).
     button:
       text: 'Read Thesis'
   - area: BA in Behavioral Neuroscience, Biology minor
     institution: Colgate University
     date_start: 2011-08-17
     date_end: 2015-05-18
-    
-
+    summary: |
+      Thesis on _Behavioral Effects of Chronic Low-Dose Exposure to the Environmental Water
+Pollutant Venlafaxine (Effexor) on the crayfish species Orconectus rusticus_. Supervised by [Prof Ann Tierney](https://www.colgate.edu/about/directory/atierney).
      
 # work:
 #  - position: Director of Cloud Infrastructure
@@ -129,7 +130,9 @@ education:
 
 ## About Me
 
-Emma is interested in exploring how we can promote the health of people and the environment in a changing world. Her research aims to measure, value, and predict the impacts of global environmental change on our ecosystems, environmental quality, and human health. She leverages different types and scales of data, including field collected ecological data to remotely sensed data to epidemiological data on human health outcomes, and she relates these datasets together by drawing on methods and tools from various disciplines, such as machine learning, causal inference, and exposure assessment. Her current research focuses on how changes to air quality, land use, and water quality, which are three resources that are critical to the functioning of healthy ecosystems have consequences for both the environment and human health. Emma is co-advised by Erin Mordecai and Marshall Burke, and she is a NSF Graduate Research Fellow, a Stanford EDGE Fellow, and a Stanford Data Science Scholar.
+Emma is interested in exploring how we can promote the health of people and the environment in a changing world. 
+
+Her research aims to measure, value, and predict the impacts of global environmental change on our ecosystems, environmental quality, and human health. She leverages different types and scales of data, including field collected ecological data to remotely sensed data to epidemiological data on human health outcomes, and she relates these datasets together by drawing on methods and tools from various disciplines, such as machine learning, causal inference, and exposure assessment. Her current research focuses on how changes to air quality, land use, and water quality, which are three resources that are critical to the functioning of healthy ecosystems have consequences for both the environment and human health. Emma is co-advised by Erin Mordecai and Marshall Burke, and she is a NSF Graduate Research Fellow, a Stanford EDGE Fellow, and a Stanford Data Science Scholar.
 
 Prior to starting her PhD, Emma worked as a Research Analyst at the Global Policy Lab at UC Berkeley (now at Stanford). During her time at GPL, she was part of a project that aimed to identify land-based sources of nonpoint source water pollution in national-scale river systems in New Zealand and the US Mississippi River Basin. Emma completed her MPH in global and environmental health science and global health at Columbia University and received a BA in behavioral neuroscience from Colgate University.
 
