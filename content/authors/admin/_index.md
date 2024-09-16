@@ -71,8 +71,7 @@ education:
     date_start: 2011-08-17
     date_end: 2015-05-18
     summary: |
-      Thesis on _Behavioral Effects of Chronic Low-Dose Exposure to the Environmental Water
-Pollutant Venlafaxine (Effexor) on the crayfish species Orconectus rusticus_. Supervised by [Prof Ann Tierney](https://www.colgate.edu/about/directory/atierney).
+      Thesis on _Behavioral Effects of Chronic Low-Dose Exposure to the Environmental Water Pollutant Venlafaxine (Effexor) on the crayfish species Orconectus rusticus_. Supervised by [Prof Ann Tierney](https://www.colgate.edu/about/directory/atierney).
      
 # work:
 #  - position: Director of Cloud Infrastructure
