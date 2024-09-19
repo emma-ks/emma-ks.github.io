@@ -45,12 +45,12 @@ profiles:
 
 
 interests:
-  - Global environmental change
-  - PLanetary and human health
-  - Disease ecology
-  - Environmental pollution
-  - Environmental management
-  - Applied econometrics
+  - planetary and human health
+  - global change ecology
+  - environmental data science
+  - environmental pollution
+  - exposure assessment
+  - applied econometrics
 
 education:
   - area: PhD in Environment & Resources
@@ -129,10 +129,11 @@ education:
 
 ## About Me
 
-Emma is interested in exploring how we can promote the health of people and the environment in a changing world. 
+Emma is interested in exploring how we can promote the health of people and the environment in a changing world. She is currently purusing her PhD in Environment and Resources at Stanford University and studies how changes to the environment impact human health, environmental quality, and ecosystem services.
 
-Her research aims to measure, value, and predict the impacts of global environmental change on our ecosystems, environmental quality, and human health. She leverages different types and scales of data, including field collected ecological data to remotely sensed data to epidemiological data on human health outcomes, and she relates these datasets together by drawing on methods and tools from various disciplines, such as machine learning, causal inference, and exposure assessment. Her current research focuses on how changes to air quality, land use, and water quality, which are three resources that are critical to the functioning of healthy ecosystems have consequences for both the environment and human health. Emma is co-advised by Erin Mordecai and Marshall Burke, and she is a NSF Graduate Research Fellow, a Stanford EDGE Fellow, and a Stanford Data Science Scholar.
-
-Prior to starting her PhD, Emma worked as a Research Analyst at the Global Policy Lab at UC Berkeley (now at Stanford). During her time at GPL, she was part of a project that aimed to identify land-based sources of nonpoint source water pollution in national-scale river systems in New Zealand and the US Mississippi River Basin. Emma completed her MPH in global and environmental health science and global health at Columbia University and received a BA in behavioral neuroscience from Colgate University.
+Prior to starting her PhD, Emma worked as a Research Analyst at the Global Policy Lab (GPL) at UC Berkeley (now at Stanford). During her time at GPL, she was part of a project that aimed to identify land-based sources of nonpoint source water pollution in national-scale river systems in New Zealand and the US Mississippi River Basin. Emma completed her MPH in environmental health science and global health at Columbia University and received a BA in behavioral neuroscience from Colgate University.
 
 When she isn’t at her desk, you can find her outside - most likely running or hiking up a mountain. She also co-founded a trivia company and loves to host trivia nights to bring communities together.
+
+
+
