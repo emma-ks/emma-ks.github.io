@@ -32,20 +32,19 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚🤓💻🌎 Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research aims to measure, value, and predict the impacts of global environmental change on our ecosystems, environmental quality, and human health. I leverage different types and scales of data, including field collected ecological data to remotely sensed data to epidemiological data on human health outcomes. I relate these datasets together by drawing on methods and tools from various disciplines, such as machine learning, causal inference, epidemiology, and exposure assessment.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+    My current research focuses on how changes to air quality, land use, and water quality, which are three resources that are critical to the functioning of healthy ecosystems have consequences for both the environment and human health. I am co-advised by Erin Mordecai and Marshall Burke, and I am a NSF Graduate Research Fellow, a Stanford EDGE Fellow, and a Stanford Data Science Scholar.
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
