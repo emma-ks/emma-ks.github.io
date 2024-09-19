@@ -35,9 +35,7 @@ sections:
       title: '📚🤓💻🌎 Research'
       subtitle: ''
       text: |-
-        My research aims to measure, value, and predict the impacts of global environmental change on our ecosystems, environmental quality, and human health. I leverage different types and scales of data, including field collected ecological data to remotely sensed data to epidemiological data on human health outcomes. I relate these datasets together by drawing on methods and tools from various disciplines, such as machine learning, causal inference, epidemiology, and exposure assessment.
-
-    My current research focuses on how changes to air quality, land use, and water quality, which are three resources that are critical to the functioning of healthy ecosystems have consequences for both the environment and human health. I am co-advised by Erin Mordecai and Marshall Burke, and I am a NSF Graduate Research Fellow, a Stanford EDGE Fellow, and a Stanford Data Science Scholar.
+        My research aims to measure, value, and predict the impacts of global environmental change on our ecosystems, environmental quality, and human health. I leverage different types and scales of data, including field collected ecological data to remotely sensed data to epidemiological data on human health outcomes. I relate these datasets together by drawing on methods and tools from various disciplines, such as machine learning, causal inference, epidemiology, and exposure assessment. My current research focuses on how changes to air quality, land use, and water quality, which are three resources that are critical to the functioning of healthy ecosystems have consequences for both the environment and human health. I am co-advised by Erin Mordecai and Marshall Burke, and I am a NSF Graduate Research Fellow, a Stanford EDGE Fellow, and a Stanford Data Science Scholar.
         
     design:
       columns: '1'
