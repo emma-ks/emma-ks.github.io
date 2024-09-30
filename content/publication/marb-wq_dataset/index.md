@@ -24,7 +24,8 @@ abstract: "Water quality monitoring can inform policies that address pollution; 
 
 summary: "We harmonized 9.2 million publicly available monitor readings from 226 distinct water monitoring authorities spanning the entirety of the Mississippi/Atchafalaya River Basin (MARB) in the United States. We created the Standardized Nitrogen and Phosphorus Dataset (SNAPD), a novel dataset of 4.8 million standardized observations for nitrogen- and phosphorus-containing compounds from 107 thousand sites during 1980–2018. To the best of our knowledge, this dataset represents the largest record of these pollutants in a single river network where measurements can be compared across time and space."
 
-tags: []
+tags:
+  - water quality, environmental pollution, novel dataset
 
 featured: true
 
