@@ -33,9 +33,7 @@ abstract: "Wildfires are a significant contributor to ambient air pollution and 
 summary: Wildfire risk is growing in the US and many other parts of the world, with demonstrable impact on surface air quality. We use daily measurements from 700 monitors around the US over 15 years to characterize the chemical species present in wildfire smoke, quantify how changing wildfire smoke concentrations are affecting observed species concentrations, and estimate health risks from exposure. We find that increases in wildfire smoke lead to measurable increases in over two dozen chemical species' concentrations and that this influence has grown over time for many species. We show that the burning of structures significantly elevates specific chemical concentrations in smoke and that wildfire enhancement of carcinogenic species could lead to small increases in population cancer risk.
 
 tags:
-- air quality
-- public health
-- wildfire smoke
+- air quality, public health, wildfire smoke
 
 featured: true
 
