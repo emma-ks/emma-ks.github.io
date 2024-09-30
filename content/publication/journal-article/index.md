@@ -1,5 +1,8 @@
 ---
-title: "40 years of harmonized nitrogen and phosphorus data"
+title: "Harmonized nitrogen and
+phosphorus concentrations in the
+Mississippi/Atchafalaya River Basin
+from 1980 to 2018"
 authors:
 - Emma Krasovich
 - Peiley Lau
