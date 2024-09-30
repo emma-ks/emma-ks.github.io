@@ -10,7 +10,7 @@ authors:
 - Hannah Druckenmiller
 - Luna Yue Huang
 - Andrew Hultgren
-- "<b>Emma Krasovich<b>"
+- "**Emma Krasovich**"
 - Peiley Lau
 - Jaechol Lee
 - Esther Rolf
@@ -37,9 +37,9 @@ abstract: "Governments around the world are responding to the coronavirus diseas
 summary: "An evaluation of how anti-contagion policies reduced the spread of COVID-19 across multiple countries."
 
 tags:
-- COVID-19
-- Anti-contagion policies
-- Econometrics
+- infectious disease epidemiology
+- public health
+- econometrics
 
 featured: true
 
