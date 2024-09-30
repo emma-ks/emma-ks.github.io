@@ -8,7 +8,7 @@ authors:
 - Kendon Bell
 - Solomon Hsiang
 date: "2022-08-27T00:00:00Z"
-# doi: ""
+doi: "https://doi-org.stanford.idm.oclc.org/10.1038/s41597-022-01650-6"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
