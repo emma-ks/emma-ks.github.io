@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Emma KS"
 date: 2024-10-01
 type: landing
 
