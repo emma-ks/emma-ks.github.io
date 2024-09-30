@@ -10,7 +10,7 @@ authors:
 - Hannah Druckenmiller
 - Luna Yue Huang
 - Andrew Hultgren
-- "**Emma Krasovich**"
+- admin
 - Peiley Lau
 - Jaechol Lee
 - Esther Rolf
