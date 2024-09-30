@@ -37,9 +37,7 @@ abstract: "Governments around the world are responding to the coronavirus diseas
 summary: "An evaluation of how anti-contagion policies reduced the spread of COVID-19 across multiple countries."
 
 tags:
-- infectious disease epidemiology
-- public health
-- econometrics
+- econometrics, infectious disease epidemiology, public health
 
 featured: true
 
