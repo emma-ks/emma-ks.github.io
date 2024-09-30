@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Emms KS"
-date: 2022-10-24
+title: ""
+date: 2024-10-01
 type: landing
 
 design:
@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: "Emma KS"
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
