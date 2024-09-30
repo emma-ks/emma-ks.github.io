@@ -33,7 +33,9 @@ abstract: "Wildfires are a significant contributor to ambient air pollution and 
 summary: Wildfire risk is growing in the US and many other parts of the world, with demonstrable impact on surface air quality. We use daily measurements from 700 monitors around the US over 15 years to characterize the chemical species present in wildfire smoke, quantify how changing wildfire smoke concentrations are affecting observed species concentrations, and estimate health risks from exposure. We find that increases in wildfire smoke lead to measurable increases in over two dozen chemical species' concentrations and that this influence has grown over time for many species. We show that the burning of structures significantly elevates specific chemical concentrations in smoke and that wildfire enhancement of carcinogenic species could lead to small increases in population cancer risk.
 
 tags:
-- 
+- air quality
+- public health
+- wildfire smoke
 
 featured: true
 
@@ -57,25 +59,10 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
+
 
 # Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-# This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-# Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
