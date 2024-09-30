@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Emma KS"
-date: 2024-10-01
+date: 2022-10-24
 type: landing
 
 design:
@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: nz_glacier.svg
           filters:
             brightness: 1.0
           size: cover
@@ -52,7 +52,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Recent work
       text: ""
       filters:
         folders:
