@@ -1,11 +1,12 @@
 ---
 title: "Harmonized water quality dataset"
 authors:
-- admin
 - Emma Krasovich
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+- Peiley Lau
+- Jeanette Tseng
+- Julia Longmate
+- Kendon Bell
+- Solomon Hsiang
 date: "2022-08-27T00:00:00Z"
 doi: "https://doi-org.stanford.idm.oclc.org/10.1038/s41597-022-01650-6"
 
@@ -24,11 +25,11 @@ publication_short: "Sci Data"
 abstract: "Water quality monitoring can inform policies that address pollution; however, inconsistent measurement and reporting practices render many observations incomparable across bodies of water, thereby impeding efforts to characterize spatial patterns and long-term trends in pollution. Here, we harmonized 9.2 million publicly available monitor readings from 226 distinct water monitoring authorities spanning the entirety of the Mississippi/Atchafalaya River Basin (MARB) in the United States. We created the Standardized Nitrogen and Phosphorus Dataset (SNAPD), a novel dataset of 4.8 million standardized observations for nitrogen- and phosphorus-containing compounds from 107 thousand sites during 1980–2018. To the best of our knowledge, this dataset represents the largest record of these pollutants in a single river network where measurements can be compared across time and space. We addressed numerous well-documented issues associated with the reporting and interpretation of these water quality data, heretofore unaddressed at this scale, and our approach to water quality data processing can be applied to other nutrient compounds and regions."
 
 # Summary. An optional shortened abstract.
-summary: "we harmonized 9.2 million publicly available monitor readings from 226 distinct water monitoring authorities spanning the entirety of the Mississippi/Atchafalaya River Basin (MARB) in the United States. We created the Standardized Nitrogen and Phosphorus Dataset (SNAPD), a novel dataset of 4.8 million standardized observations for nitrogen- and phosphorus-containing compounds from 107 thousand sites during 1980–2018. To the best of our knowledge, this dataset represents the largest record of these pollutants in a single river network where measurements can be compared across time and space."
+summary: "We harmonized 9.2 million publicly available monitor readings from 226 distinct water monitoring authorities spanning the entirety of the Mississippi/Atchafalaya River Basin (MARB) in the United States. We created the Standardized Nitrogen and Phosphorus Dataset (SNAPD), a novel dataset of 4.8 million standardized observations for nitrogen- and phosphorus-containing compounds from 107 thousand sites during 1980–2018. To the best of our knowledge, this dataset represents the largest record of these pollutants in a single river network where measurements can be compared across time and space."
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: "40 years of harmonized water quality data"
