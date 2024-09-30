@@ -1,7 +1,7 @@
 ---
 title: "Harmonized nitrogen and phosphorus concentrations in the Mississippi/Atchafalaya River Basin from 1980 to 2018"
 authors:
-  - "<b>Emma Krasovich<b>"
+  - "**Emma Krasovich**"
   - Peiley Lau
   - Jeanette Tseng
   - Julia Longmate
