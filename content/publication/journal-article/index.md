@@ -1,14 +1,14 @@
 ---
 title: "Harmonized nitrogen and phosphorus concentrations in the Mississippi/Atchafalaya River Basin from 1980 to 2018"
 authors:
-  - Emma Krasovich
+  - "**Emma Krasovich**"
   - Peiley Lau
   - Jeanette Tseng
   - Julia Longmate
   - Kendon Bell
   - Solomon Hsiang
 date: "2022-08-27T00:00:00Z"
-doi: "https://doi-org.stanford.idm.oclc.org/10.1038/s41597-022-01650-6"
+# doi: "https://doi-org.stanford.idm.oclc.org/10.1038/s41597-022-01650-6"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -29,7 +29,7 @@ tags: []
 featured: true
 
 links:
-  - name: "40 years of harmonized water quality data"
+  - name: "Link to article"
     url: "https://doi-org.stanford.idm.oclc.org/10.1038/s41597-022-01650-6"
 
 url_code: "https://www.hydroshare.org/resource/9547035cf37940eb9b500b7994a378a1/"
