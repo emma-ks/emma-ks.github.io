@@ -46,11 +46,13 @@ profiles:
 
 interests:
   - planetary and human health
-  - global change ecology
-  - environmental data science
+  - disease ecology
   - environmental pollution
-  - exposure assessment
-  - applied econometrics
+  - ecosystem services
+  - environmental data science
+  - causal inference
+  - machine learning
+  - risk exposure assessment
 
 education:
   - area: PhD in Environment & Resources
