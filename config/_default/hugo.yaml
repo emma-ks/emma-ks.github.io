@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Emma KS
+title: emma krasovich southworth
 # Website URL
 baseURL: 'https://emmaks.com'
 
@@ -25,7 +25,8 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
