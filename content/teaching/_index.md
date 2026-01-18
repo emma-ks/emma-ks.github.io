@@ -1,23 +1,11 @@
 ---
-# title: Teaching
-# summary: My courses
-# type: landing
-
-# cascade:
-#  - _target:
-#      kind: page
-#    params:
-#      show_breadcrumb: true
-
-# sections:
-#  - block: collection
-#    id: teaching
-#    content:
-#      title: Teaching
-#      filters:
-#        folders:
-#          - teaching
-#    design:
-#      view: article-grid
-#      columns: 2
+title: "teaching"
+date: 2024-01-01
+type: page
 ---
+
+- Disease Ecology · Stanford University · 2024
+- Global Change and Emerging Infectious Diseases · Stanford University · 2023
+- Risk Assessment & Environmental Chemistry · Columbia University · 2017
+- Environmental Determinants of Health · Columbia University · 2017
+- General Chemistry Laboratory · Colgate University · 2012–2013

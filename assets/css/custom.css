@@ -1,0 +1,344 @@
+/* Custom CSS for Emma Krasovich Southworth - Academic Website */
+/* Inspired by ivanhigueram.com - clean, minimal, wide layout */
+
+/* ============================================
+   FONT: Epilogue from Fontshare
+   ============================================ */
+@import url('https://api.fontshare.com/v2/css?f[]=epilogue@400,500,600,700&display=swap');
+
+/* ============================================
+   ROOT VARIABLES
+   ============================================ */
+:root {
+  --color-text: #1a1a1a;
+  --color-background: #e8f0f5; /* Light steelblue background */
+  --color-link: magenta;
+  --color-link-hover: #cc00cc;
+  --color-accent: steelblue;
+  --color-muted: #555555;
+  --color-border: #c5d5e0;
+  --font-main: 'Epilogue', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-size-base: 16px;
+  --font-size-small: 14px;
+  --line-height: 1.7;
+  --content-max-width: 900px;
+  --page-max-width: 1100px;
+}
+
+/* ============================================
+   BASE STYLES
+   ============================================ */
+html {
+  font-size: var(--font-size-base);
+  background-color: var(--color-background);
+}
+
+body {
+  font-family: var(--font-main) !important;
+  font-size: var(--font-size-base);
+  line-height: var(--line-height);
+  color: var(--color-text);
+  background-color: var(--color-background);
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply Epilogue to all text elements */
+h1, h2, h3, h4, h5, h6, p, a, li, span, div {
+  font-family: var(--font-main) !important;
+}
+
+/* ============================================
+   LINKS - Magenta color
+   ============================================ */
+a {
+  color: var(--color-link) !important;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--color-link-hover) !important;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: var(--color-link) !important;
+}
+
+/* ============================================
+   LAYOUT - Wider page
+   ============================================ */
+.page-wrapper,
+.hb-section,
+main,
+.container {
+  max-width: var(--page-max-width) !important;
+  width: 100% !important;
+  margin: 0 auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* Main content area */
+.prose,
+.hb-section-markdown,
+article {
+  max-width: var(--content-max-width) !important;
+}
+
+/* ============================================
+   TYPOGRAPHY
+   ============================================ */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  line-height: 1.3;
+  color: var(--color-text);
+}
+
+h1 { font-size: 1.75rem; }
+h2 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  text-transform: lowercase;
+  letter-spacing: 0.02em;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.5rem;
+}
+h3 { font-size: 1rem; }
+
+p {
+  margin-bottom: 1.25rem;
+}
+
+/* ============================================
+   PROFILE SECTION
+   ============================================ */
+.profile {
+  margin-bottom: 2.5rem;
+  text-align: left;
+}
+
+.profile-photo {
+  max-width: 180px;
+  margin-bottom: 1.25rem;
+}
+
+.profile-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.profile-name {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+  color: var(--color-text);
+  text-transform: lowercase;
+}
+
+.profile-title {
+  color: var(--color-muted);
+  font-size: var(--font-size-base);
+  margin-bottom: 0.25rem;
+  font-weight: 400;
+}
+
+/* ============================================
+   SOCIAL ICONS
+   ============================================ */
+.social-icons {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.social-icons a {
+  color: var(--color-text) !important;
+  display: inline-flex;
+  align-items: center;
+  transition: color 0.2s ease;
+}
+
+.social-icons a:hover {
+  color: var(--color-accent) !important;
+  text-decoration: none;
+}
+
+.social-icons .icon {
+  width: 22px;
+  height: 22px;
+}
+
+.social-icons .icon-email {
+  font-size: 22px;
+  line-height: 1;
+}
+
+/* ============================================
+   NAVIGATION LINKS (on homepage)
+   ============================================ */
+.nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-top: 2rem;
+  padding-top: 1rem;
+}
+
+.nav-links a {
+  color: var(--color-accent) !important;
+  font-weight: 500;
+  font-size: var(--font-size-base);
+  transition: color 0.2s ease;
+}
+
+.nav-links a:hover {
+  color: var(--color-link) !important;
+}
+
+/* ============================================
+   SECTION STYLING
+   ============================================ */
+.hb-section {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+
+/* Section titles */
+.hb-section h2,
+section h2 {
+  color: var(--color-accent);
+}
+
+/* ============================================
+   LISTS
+   ============================================ */
+ul, ol {
+  padding-left: 1.25rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* ============================================
+   OVERRIDE HUGOBLOX DEFAULTS
+   ============================================ */
+/* Apply light steelblue background everywhere */
+.dark,
+.bg-primary-700,
+[class*="bg-"] {
+  background: var(--color-background) !important;
+  color: var(--color-text) !important;
+}
+
+/* Simplify navbar */
+.navbar,
+header {
+  background: var(--color-background) !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.navbar a,
+header a {
+  color: var(--color-text) !important;
+  font-weight: 500;
+}
+
+.navbar a:hover,
+header a:hover {
+  color: var(--color-link) !important;
+}
+
+/* Remove card styling */
+.card {
+  box-shadow: none !important;
+  border: none !important;
+  background: transparent !important;
+}
+
+/* Footer */
+footer {
+  border-top: 1px solid var(--color-border);
+  padding-top: 2rem;
+  margin-top: 3rem;
+  background: var(--color-background) !important;
+}
+
+/* ============================================
+   PUBLICATION STYLING
+   ============================================ */
+.pub-item,
+article ol li {
+  margin-bottom: 1.5rem;
+}
+
+/* Read more links */
+article a[href*="read more"],
+a:contains("read more") {
+  color: var(--color-accent) !important;
+  font-weight: 500;
+}
+
+/* ============================================
+   RESPONSIVE DESIGN
+   ============================================ */
+@media (max-width: 768px) {
+  :root {
+    --page-max-width: 100%;
+    --content-max-width: 100%;
+  }
+
+  .page-wrapper,
+  .hb-section,
+  main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .profile-photo {
+    max-width: 140px;
+  }
+
+  .profile-name {
+    font-size: 1.5rem;
+  }
+
+  .social-icons {
+    gap: 0.75rem;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+}
+
+/* ============================================
+   HIDE AUTO-GENERATED SECTION CARDS
+   ============================================ */
+/* Hide the HugoBlox auto-generated card links at bottom of section pages */
+/* Target only the card containers with mb-5 anchor children (not homepage content) */
+.flex.flex-col.items-center > a.mb-5 {
+  display: none !important;
+}
+
+/* ============================================
+   PRINT STYLES
+   ============================================ */
+@media print {
+  body {
+    font-size: 12pt;
+    background: white;
+  }
+
+  a {
+    color: var(--color-text) !important;
+  }
+}

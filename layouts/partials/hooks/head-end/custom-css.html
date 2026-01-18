@@ -1,0 +1,5 @@
+<!-- Custom CSS for minimal Hsiang-inspired design -->
+{{ $css := resources.Get "css/custom.css" }}
+{{ if $css }}
+<style>{{ $css.Content | safeCSS }}</style>
+{{ end }}

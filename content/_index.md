@@ -1,122 +1,54 @@
 ---
-# Leave the homepage title empty to use the site title
-title: "Emma KS"
-date: 2022-10-24
+title: "emma krasovich southworth"
+date: 2024-01-01
 type: landing
 
 design:
-  # Default section spacing
-  spacing: "6rem"
+  spacing: "1.5rem"
 
 sections:
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: nz_glacier.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
   - block: markdown
+    id: about
     content:
-      title: '📚🤓💻🌎 Research'
-      subtitle: ''
+      title: ""
       text: |-
-        My research aims to measure, value, and predict the impacts of global environmental change on our ecosystems, environmental quality, and human health. I leverage different types and scales of data, including field collected ecological data to remotely sensed data to epidemiological data on human health outcomes. I relate these datasets together by drawing on methods and tools from various disciplines, such as machine learning, causal inference, epidemiology, and exposure assessment. My current research focuses on how changes to air quality, land use, and water quality, which are three resources that are critical to the functioning of healthy ecosystems have consequences for both the environment and human health. I am co-advised by Erin Mordecai and Marshall Burke, and I am a NSF Graduate Research Fellow, a Stanford EDGE Fellow, and a Stanford Data Science Scholar.
-        
+        <div class="profile">
+          <div class="profile-photo">
+            <img src="/uploads/avatar.jpg" alt="Emma Krasovich Southworth">
+          </div>
+          <div class="profile-name">emma krasovich southworth</div>
+          <div class="profile-title">PhD Candidate, Environment & Resources</div>
+          <div class="profile-title">Stanford University</div>
+          <div class="social-icons">
+            <a href="mailto:emmars@stanford.edu" title="Email"><span class="icon-email">✉️</span></a>
+            <a href="https://github.com/emma-ks" title="GitHub"><svg class="icon" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg></a>
+            <a href="https://linkedin.com/in/emmakrasovich" title="LinkedIn"><svg class="icon" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg></a>
+            <a href="https://bsky.app/profile/emmaks.bsky.social" title="Bluesky"><svg class="icon" viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/></svg></a>
+          </div>
+        </div>
+
+        ## about me
+
+        I am a PhD candidate in Environment and Resources ([E-IPER](https://eiper.stanford.edu/)) at the Stanford Doerr School of Sustainability, and I am part of the [Echolab](https://www.stanfordecholab.com), [Mordecai Lab](https://www.mordecailab.com/), and [Global Policy Lab](https://www.globalpolicy.science/). I am co-advised by [Erin Mordecai](https://www.mordecailab.com/) (Biology) and [Marshall Burke](https://www.stanfordecholab.com) (Global Environmental Policy). In addition to my program funding, I am supported by the [Stanford Data Science Fellowship](https://datascience.stanford.edu/about/people), NSF GRFP, and the Stanford EDGE Fellowship. Before starting my PhD, I was a research analyst at the Global Policy Lab at UC Berkeley (now @Stanford), worked at an environmental engineering firm, and earned my MPH from Columbia University in Environmental Health Sciences and Global Health.
+
+        When I'm not at my desk, you can find me outside - most likely running or hiking up a mountain. I also co-founded a trivia company ([aeroTRIV](https://aerotriv.com)) with my partner and we love to host bespoke trivia nights to bring communities together.
+
+        ## research interests
+
+        planetary health · disease ecology · environmental data science
+
+        I measure the impact of large-scale environmental changes on human health and environmental quality, with a focus on natural disasters. I think about things like what chemicals are in wildfire smoke and how tropical cyclones affect the burden of infectious disease. I combine different scales of data with causal inference to say something about what environmental exposures mean for people and the environment.
+
+        ---
+
+        <div class="nav-links">
+          <a href="/news/">news & updates →</a>
+          <a href="/publications/">publications →</a>
+          <a href="/working-papers/">working papers →</a>
+          <a href="/teaching/">teaching →</a>
+          <a href="/media/">media coverage →</a>
+        </div>
+
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent work
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  # - block: collection
-  #  id: talks
-  #  content:
-  #    title: Recent & Upcoming Talks
-  #    filters:
-  #      folders:
-  #        - event
-  #  design:
-  #    view: article-grid
-  #    columns: 1
- # - block: collection
- #   id: news
- #   content:
- #     title: Recent News
- #    subtitle: ''
- #     text: ''
- #     # Page type to display. E.g. post, talk, publication...
-#   page_type: post
-#      # Choose how many pages you would like to display (0 = all pages)
-#      count: 5
-#      # Filter on criteria
-#      filters:
-#        author: ""
-#        category: ""
-#        tag: ""
-#        exclude_featured: false
-#        exclude_future: false
-#        exclude_past: false
-#        publication_type: ""
-#      # Choose how many pages you would like to offset by
-#      offset: 0
-#      # Page order: descending (desc) or ascending (asc) date.
-#      order: desc
-#    design:
-#      # Choose a layout view
-#      view: date-title-summary
-#      # Reduce spacing
-#      spacing:
-#        padding: [0, 0, 0, 0]
-#   - block: cta-card
-#    demo: true # Only display this section in the Hugo Blox Builder demo site
-#     content:
-#       title: 👉 Build your own academic website like this
-#       text: |-
-#         This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
-# 
-#         <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
-
-#         Easily build anything with blocks - no-code required!
-#         
-#         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
- #      button:
- #        text: Get Started
- #        url: https://hugoblox.com/templates/
-#     design:
-#       card:
-#         # Card background color (CSS class)
-#         css_class: "bg-primary-700"
-#         css_style: ""
 ---
