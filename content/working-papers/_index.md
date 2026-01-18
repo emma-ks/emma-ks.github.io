@@ -31,3 +31,8 @@ Lau, P., Longmate, J., Krasovich Southworth, E., Tseng, J., Bell, K., Sum, S., a
 
 ### The efficacy of vector control intervention on dengue burden in Guatemala
 Lamm-Perez, J., Krasovich Southworth, E., Glidden, C., and Mordecai, E.
+
+---
+
+### Understanding and Addressing Temperature Impacts on Mortality
+Burke, M., Wilson, A., Avirmed, T., Wallstein, J., Martins, M., Behrer, P., Callahan, C., Childs, M., Choi, J., French, K., Gould, C., Heft-Neal, S., Jing, R., Qiu, M., Rennels, L., **Southworth, E.** *Submitted.*
