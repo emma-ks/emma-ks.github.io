@@ -17,9 +17,6 @@ main:
   - name: working papers
     url: "/working-papers/"
     weight: 50
-  - name: teaching
-    url: "/teaching/"
-    weight: 60
   - name: media coverage
     url: "/media/"
     weight: 70
