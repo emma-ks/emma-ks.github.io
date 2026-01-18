@@ -36,3 +36,5 @@ Lamm-Perez, J., Krasovich Southworth, E., Glidden, C., and Mordecai, E.
 
 ### Understanding and Addressing Temperature Impacts on Mortality
 Burke, M., Wilson, A., Avirmed, T., Wallstein, J., Martins, M., Behrer, P., Callahan, C., Childs, M., Choi, J., French, K., Gould, C., Heft-Neal, S., Jing, R., Qiu, M., Rennels, L., **Southworth, E.** *Submitted.*
+
+[read more →](https://www.nber.org/papers/w34313)
