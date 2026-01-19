@@ -1,2 +1,16 @@
 <!-- Custom CSS for minimal Hsiang-inspired design -->
 <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+
+<!-- Make CV link open in new tab -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Find the CV link in navbar and make it open in new tab
+  var navLinks = document.querySelectorAll('.navbar a.nav-link');
+  navLinks.forEach(function(link) {
+    if (link.href && link.href.includes('.pdf')) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+});
+</script>

@@ -7,7 +7,7 @@ type: page
 ## 2025
 - New paper published in *Environmental Science & Technology* on wildfire smoke PM2.5 chemical species
 - Featured in [Los Angeles Times](https://www.latimes.com/environment/newsletter/2025-08-07/climate-change-physical-costs) for work on wildfire health impacts
-- Presented at Stanford Data Science Conference, TWEEDS, Sustainability Data Science Conference
+- Presented at Stanford Data Science Conference, [TWEEDs](https://tweeds.io/), Sustainability Data Science Conference
 - Talk at University of Costa Rica Vector Symposium
 
 ## 2024

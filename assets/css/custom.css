@@ -11,18 +11,18 @@
    ============================================ */
 :root {
   --color-text: #1a1a1a;
-  --color-background: #e8f0f5; /* Light steelblue background */
+  --color-background: #ffffff; /* White background */
   --color-link: #8B5CF6; /* Purple */
   --color-link-hover: #7C3AED; /* Darker purple */
   --color-accent: steelblue;
   --color-muted: #555555;
-  --color-border: #c5d5e0;
+  --color-border: #e0e0e0;
   --font-main: 'Epilogue', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   --font-size-base: 16px;
   --font-size-small: 14px;
   --line-height: 1.7;
-  --content-max-width: 900px;
-  --page-max-width: 1100px;
+  --content-max-width: 1100px;
+  --page-max-width: 1400px;
 }
 
 /* ============================================
@@ -80,10 +80,22 @@ main,
   padding-right: 2rem;
 }
 
-/* Main content area */
+/* Main content area - override Tailwind max-w-prose */
 .prose,
 .hb-section-markdown,
-article {
+article,
+.max-w-prose {
+  max-width: var(--content-max-width) !important;
+}
+
+/* Override the flex container that wraps content */
+.flex.flex-col.items-center.max-w-prose {
+  max-width: var(--content-max-width) !important;
+}
+
+/* Ensure page-body content is wider */
+.page-body .prose,
+.page-body > div {
   max-width: var(--content-max-width) !important;
 }
 
@@ -131,7 +143,8 @@ p {
 }
 
 .profile-right {
-  max-width: 800px;
+  max-width: 100%;
+  width: 100%;
   text-align: left;
   margin-top: 2rem;
 }
@@ -172,14 +185,14 @@ p {
 }
 
 .social-icons a {
-  color: var(--color-text) !important;
+  color: var(--color-link) !important;
   display: inline-flex;
   align-items: center;
   transition: color 0.2s ease;
 }
 
 .social-icons a:hover {
-  color: var(--color-accent) !important;
+  color: var(--color-link-hover) !important;
   text-decoration: none;
 }
 
@@ -340,6 +353,15 @@ footer {
 
 .pub-journal {
   color: var(--color-muted);
+}
+
+/* Working papers without images */
+.pub-item.no-image {
+  display: block;
+}
+
+.pub-item.no-image .pub-text {
+  max-width: 100%;
 }
 
 /* Read more links */

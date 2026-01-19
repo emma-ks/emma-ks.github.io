@@ -8,6 +8,8 @@ main:
   - name: cv
     url: /uploads/KrasovichSouthworth_Emma_CV2025.pdf
     weight: 20
+    params:
+      target: _blank
   - name: news & updates
     url: "/news/"
     weight: 30
