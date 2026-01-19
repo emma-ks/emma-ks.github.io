@@ -418,8 +418,7 @@ a:contains("read more") {
    HIDE AUTO-GENERATED SECTION CARDS
    ============================================ */
 /* Hide the HugoBlox auto-generated card links at bottom of section pages */
-/* Target only the card containers with mb-5 anchor children (not homepage content) */
-.flex.flex-col.items-center > a.mb-5 {
+.page-body .flex.flex-col.items-center {
   display: none !important;
 }
 
