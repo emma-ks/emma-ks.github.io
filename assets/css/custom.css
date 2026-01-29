@@ -418,7 +418,8 @@ a:contains("read more") {
    HIDE AUTO-GENERATED SECTION CARDS
    ============================================ */
 /* Hide the HugoBlox auto-generated card links at bottom of section pages */
-.page-body .flex.flex-col.items-center {
+/* Use :not() to avoid hiding homepage content which has max-w-prose */
+.page-body .flex.flex-col.items-center:not(.max-w-prose) {
   display: none !important;
 }
 
