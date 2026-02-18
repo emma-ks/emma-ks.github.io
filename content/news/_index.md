@@ -4,6 +4,9 @@ date: 2024-01-01
 type: page
 ---
 
+## 2026
+-
+
 ## 2025
 - New paper published in *Environmental Science & Technology* on wildfire smoke PM2.5 chemical species
 - Featured in [Los Angeles Times](https://www.latimes.com/environment/newsletter/2025-08-07/climate-change-physical-costs) for work on wildfire health impacts
