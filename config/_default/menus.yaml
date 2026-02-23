@@ -6,7 +6,7 @@ main:
     url: "/"
     weight: 10
   - name: cv
-    url: /uploads/KrasovichSouthworth_Emma_CV2025.pdf
+    url: /uploads/KrasovichSouthworth_Emma_CV2026.pdf
     weight: 20
     params:
       target: _blank
