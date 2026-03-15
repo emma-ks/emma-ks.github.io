@@ -5,7 +5,7 @@ type: page
 ---
 
 ## 2026
--
+- Talk at Bay Area Ecology and Evolution of Infectious Diseases
 
 ## 2025
 - New paper published in *Environmental Science & Technology* on wildfire smoke PM2.5 chemical species
