@@ -45,14 +45,13 @@ profiles:
 
 
 interests:
-  - planetary and human health
+  - planetary health
+  - climate extremes
+  - global change
+  - environmental pollution and toxic exposures
   - disease ecology
-  - environmental pollution
-  - ecosystem services
   - environmental data science
   - causal inference
-  - machine learning
-  - risk exposure assessment
 
 education:
   - area: PhD in Environment & Resources
@@ -133,7 +132,7 @@ education:
 
 ## About Me
 
-Emma is interested in exploring how we can promote the health of people and the environment in a changing world. She is currently purusing her PhD in Environment and Resources at Stanford University and studies how changes to the environment impact human health, environmental quality, and ecosystem services.
+My research is united by the question: how can we protect human health in the face of intensifying and extreme environmental change? We live in an era where humans are impacting and are impacted by their environment at an unprecedented scale. Natural disasters such as wildfires are growing in size and severity, while tropical cyclones are intensifying and leading to lasting damage. My research aims to contribute to a body of evidence that measures how extreme climate events lead to environmental degradation, harmful exposures, and disease outcomes as a way to better prepare for and prevent future impacts.
 
 Prior to starting her PhD, Emma worked as a Research Analyst at the Global Policy Lab (GPL) at UC Berkeley (now at Stanford). During her time at GPL, she was part of a project that aimed to identify land-based sources of nonpoint source water pollution in national-scale river systems in New Zealand and the US Mississippi River Basin. Emma completed her MPH in environmental health science and global health at Columbia University and received a BA in behavioral neuroscience from Colgate University.
 

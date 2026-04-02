@@ -5,7 +5,10 @@ type: page
 ---
 
 ## 2026
-- Talk at Bay Area Ecology and Evolution of Infectious Diseases
+- Talk at Bay Area Ecology and Evolution of Infectious Disease (BAEEID) in March
+- Poster at the King Center Global Development Symposium in April
+- Talk at Stanford Sustainability Data Science (SuDS) Conference in April
+- Talk at Ecology and Evolution of Infectious Disease (EEID) in June
 
 ## 2025
 - New paper published in *Environmental Science & Technology* on wildfire smoke PM2.5 chemical species
