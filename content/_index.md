@@ -33,7 +33,7 @@ sections:
 
         ## research interests
 
-        <span class="topic-areas">planetary health | disease ecology | environmental data science | environmental exposures | global change</span>
+        <span class="topic-areas">planetary health | climate extremes | global change | environmental pollution and toxic exposures | disease ecology | environmental data science | causal inference</span>
 
         I measure the impact of large-scale environmental changes on human health and environmental quality, with a focus on natural disasters. I think about things like what chemicals are in wildfire smoke and how tropical cyclones affect the burden of infectious disease. I combine different scales of data with causal inference to say something about what environmental exposures mean for people and the environment.
 
