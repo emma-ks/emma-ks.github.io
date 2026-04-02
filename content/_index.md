@@ -35,7 +35,7 @@ sections:
 
         <span class="topic-areas">planetary health | climate extremes | global change | environmental pollution and toxic exposures | disease ecology | environmental data science | causal inference</span>
 
-        I measure the impact of large-scale environmental changes on human health and environmental quality, with a focus on natural disasters. I think about things like what chemicals are in wildfire smoke and how tropical cyclones affect the burden of infectious disease. I combine different scales of data with causal inference to say something about what environmental exposures mean for people and the environment.
+        My research is united by the question: how can we protect human health in the face of intensifying and extreme environmental change? We live in an era where humans are impacting and are impacted by their environment at an unprecedented scale. Natural disasters such as wildfires are growing in size and severity, while tropical cyclones are intensifying and leading to lasting damage. My research aims to contribute to a body of evidence that measures how extreme climate events lead to environmental degradation, harmful exposures, and disease outcomes as a way to better prepare for and prevent future impacts.
 
         ---
 
