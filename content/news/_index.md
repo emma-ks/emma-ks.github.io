@@ -17,6 +17,7 @@ type: page
 - Talk at University of Costa Rica Vector Symposium
 
 ## 2024
+- Received Data Science Fellowship at Stanford University
 - Advanced to PhD candidacy (June 2024)
 - 2nd Place Poster at Big Earth Hackathon: Wildland Fire Challenge
 - Presented at NASA AMES Biospheric Sciences
